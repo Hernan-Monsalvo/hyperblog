@@ -2,3 +2,9 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+
+.post{
+    width: 70%;
+    background-color: gray;
+    margin: 0 auto;
+}
